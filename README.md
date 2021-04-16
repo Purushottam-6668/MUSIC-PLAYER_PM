@@ -1,7 +1,7 @@
 
 <p align="center">
 
-   <a href="https://github.com/PURUSHOTTAM/WHO-IS-PURUSHOTTAM><img src="https://media.giphy.com/media/E2TzDxzrWXLDG/giphy.gif" alt="Userge-x" width=400px></a>
+   <a href="https://github.com/PURUSHOTTAM/WHO-IS-PURUSHOTTAM"><img src="https://media.giphy.com/media/E2TzDxzrWXLDG/giphy.gif" alt="Userge-x" width=400px></a>
 
    <br>
    # How To Host
